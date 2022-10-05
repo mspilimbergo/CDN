@@ -1,4 +1,3 @@
-<script>
 (function () {
     var sliderId = 'MultiImageSlider';
     var collectionListWrapperId = 'MultiImageCollectionWrapper';
@@ -526,4 +525,3 @@
         $collectionWrapper15.remove();
     }                            
 })();
-</script> 
